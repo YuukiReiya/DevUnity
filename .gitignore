@@ -1,3 +1,7 @@
 */Library/
 */Logs/
 */Temp/
+*/PostProcessing/
+*/PostProcessing.meta
+*/.vs/
+*/obj/
